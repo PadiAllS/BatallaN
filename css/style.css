@@ -1,0 +1,5 @@
+# Empty CSS file for your own CSS
+td > imput {
+    display: inline !important;
+    width: 50px !important;
+}
